@@ -35,6 +35,10 @@ npm run dev
 
 
 ```
+Live link:
+```bash
+https://product-management-app-vz8r.onrender.com/
+```
 ## Features
 ## Roles and permissions
 
